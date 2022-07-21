@@ -22,7 +22,7 @@ public class EqXn extends Equacao {
     public void setXp(double xp) {
         this.xp = xp;
     }
-    // #region
+    //#endregion
 
     // #region regra de negocio
     public void calculaXn(double delta) {
